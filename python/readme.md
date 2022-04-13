@@ -52,7 +52,6 @@ Operator	Example	Same As	Try it
 ^=	x ^= 3	x = x ^ 3	
 >>=	x >>= 3	x = x >> 3	
 <<=	x <<= 3	x = x << 3	
-ADVERTISEMENT
 
 Python Comparison Operators
 Comparison operators are used to compare two values:
